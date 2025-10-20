@@ -20,28 +20,28 @@ I’m a motivated **Software Engineer** with uop 3 years of experience. I am hig
 ## 🏢 Experience
 
 - **Software Engineer (AI/ML & GenAI)** — *Upwork* (October 2024 – October 2025)  
- • Delivered AI/ML and Generative AI solutions across multiple domains including e-commerce, healthcare, and finance.
- • Developed and fine-tuned transformer-based models (BERT, GPT, LLaMA) for NLP tasks such as summarization, sentiment analysis, and intent classification.
- • Built end-to-end Retrieval-Augmented Generation (RAG) and recommendation systems to enhance personalization and contextual intelligence.
- • Deployed and optimized PyTorch-based deep learning models for scalable inference using TorchServe and TensorRT.
- • Automated ML workflows using CI/CD, versioning, and retraining pipelines for continuous improvement.
- • Provisioned cloud infrastructure using Terraform and Docker for reproducible, cloud-native model deployments.
- • Collaborated with teams to translate business requirements into production-grade AI solutions aligned with scalability and reliability goals.
+ • Delivered AI/ML and Generative AI solutions across multiple domains including e-commerce, healthcare, and finance. <br>
+ • Developed and fine-tuned transformer-based models (BERT, GPT, LLaMA) for NLP tasks such as summarization, sentiment analysis, and intent classification. <br>
+ • Built end-to-end Retrieval-Augmented Generation (RAG) and recommendation systems to enhance personalization and contextual intelligence. <br>
+ • Deployed and optimized PyTorch-based deep learning models for scalable inference using TorchServe and TensorRT. <br>
+ • Automated ML workflows using CI/CD, versioning, and retraining pipelines for continuous improvement.<br>
+ • Provisioned cloud infrastructure using Terraform and Docker for reproducible, cloud-native model deployments. <br>
+ • Collaborated with teams to translate business requirements into production-grade AI solutions aligned with scalability and reliability goals. <br>
 
 - **Senior Software Engineer / Analyst** — *Capgemini* (Sep 2022 – Sep 2024)
- • Led development of end-to-end ML and LLM-driven solutions for automotive clients including Peugeot, Opel, and Citroën.
- • Designed and fine-tuned transformer-based models (BERT, GPT, LLaMA) for NLP tasks including summarization, classification, and contextual understanding.
- • Developed and deployed PyTorch-based deep learning architectures for multimodal data applications.
- • Built GenAI-powered recommendation and retrieval systems enhancing personalization and intelligent decision-making.
- • Implemented NLP pipelines with tokenization, embeddings, and vector search integrations for RAG-based workflows.
- • Optimized model performance through prompt engineering, quantization, and inference acceleration.
- • Integrated monitoring and retraining workflows using Prometheus, Grafana, and CloudWatch for model drift detection.
- • Deployed scalable AI systems using MLOps and LLMOps best practices across AWS and Azure environments.
+ • Led development of end-to-end ML and LLM-driven solutions for automotive clients including Peugeot, Opel, and Citroën. <br>
+ • Designed and fine-tuned transformer-based models (BERT, GPT, LLaMA) for NLP tasks including summarization, classification, and contextual understanding.<br>
+ • Developed and deployed PyTorch-based deep learning architectures for multimodal data applications. <br>
+ • Built GenAI-powered recommendation and retrieval systems enhancing personalization and intelligent decision-making. <br>
+ • Implemented NLP pipelines with tokenization, embeddings, and vector search integrations for RAG-based workflows. <br>
+ • Optimized model performance through prompt engineering, quantization, and inference acceleration. <br>
+ • Integrated monitoring and retraining workflows using Prometheus, Grafana, and CloudWatch for model drift detection. <br>
+ • Deployed scalable AI systems using MLOps and LLMOps best practices across AWS and Azure environments.<br>
 
-  - **Technical Head** — *Dhole Patil College of Engineering, Pune* (2021–2022)  
+- **Technical Head** — *Dhole Patil College of Engineering, Pune* (2021–2022)  
   • Managed college fests, events for whole college and attended international guests and helped PPO team for college placements.
 
-  - **President** — *Toastmasters Club of Pune* (2021–2022)  
+- **President** — *Toastmasters Club of Pune* (2021–2022)  
   • Attended Public speaking Events and made a group internally inside my college for developing 8 leadership principles in students.
 
 - **Intern** — *CPAG Graphology Experts LLP* (2018)
@@ -73,9 +73,6 @@ I’m a motivated **Software Engineer** with uop 3 years of experience. I am hig
 ---
 ## 🎓 Education  
 
-- **Indian Institute of Technology (IIT) Patna** — *Executive M.Tech in Artificial Intelligence & Data Science* - *2025*
-  Only Designed for working professionals, Complete online course.
-    
 
 - **Savitribai Phule Pune University, Pune)** — *Bachlors B.E. in Information Technolofy (Computer Engineering)* - *2019 – 2022*  
   Came top 5 in University : CGPA : 9/10
@@ -85,9 +82,6 @@ I’m a motivated **Software Engineer** with uop 3 years of experience. I am hig
 ---
 ## 🛠️ Tech Stack
 
-- **Languages:** Python, Java, JavaScript, SQL, Bash/Shell  
-- **Backend:** Node.js, Express.js, Spring Boot, REST APIs, Microservices  
-- **Databases:** PostgreSQL, MySQL, MongoDB, Oracle, Redis  
 - **Core AI & Machine Learning:** Supervised/Unsupervised Learning, Deep Learning, NLP, Computer Vision, Generative AI, LLMs, RAG Systems, Recommendation Engines, Embedding Models  
 - **Frameworks & Libraries:** PyTorch, TensorFlow, Hugging Face Transformers, LangChain, Scikit-learn, Pandas, NumPy, Matplotlib, FastAPI, Streamlit  
 - **MLOps & LLMOps:** MLflow, Kubeflow, TorchServe, BentoML, Docker, Kubernetes, AWS SageMaker, Vertex AI, CI/CD Pipelines, Model Registry, Automated Retraining  
