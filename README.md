@@ -19,26 +19,24 @@ I’m a motivated **Software Engineer** with uop 3 years of experience. I am hig
 
 ## 🏢 Experience
 
-- **Software Engineer (Freelance)** — *Upwork* (Apr 2025 – Aug 2025)  
- • Designed selenium projects for portfolio and Bootcamps, improving testing and reducing manual efforts.
- • Debugged online live portals for better results using google dev tools and the codes.
- • Personally Built multiple google extensions using JavaScript and make them live.
- • Worked on giving blind man vision through web camera for regression and MATLAB/Octave softwares.
+- **Software Engineer (AI/ML & GenAI)** — *Upwork* (October 2024 – October 2025)  
+ • Delivered AI/ML and Generative AI solutions across multiple domains including e-commerce, healthcare, and finance.
+ • Developed and fine-tuned transformer-based models (BERT, GPT, LLaMA) for NLP tasks such as summarization, sentiment analysis, and intent classification.
+ • Built end-to-end Retrieval-Augmented Generation (RAG) and recommendation systems to enhance personalization and contextual intelligence.
+ • Deployed and optimized PyTorch-based deep learning models for scalable inference using TorchServe and TensorRT.
+ • Automated ML workflows using CI/CD, versioning, and retraining pipelines for continuous improvement.
+ • Provisioned cloud infrastructure using Terraform and Docker for reproducible, cloud-native model deployments.
+ • Collaborated with teams to translate business requirements into production-grade AI solutions aligned with scalability and reliability goals.
 
 - **Senior Software Engineer / Analyst** — *Capgemini* (Sep 2022 – Sep 2024)
-  • Worked with automotive clients (Peugeot, Opel, Citroen) as a Lead.
-  •  Developed modular front-ends (React, Razor, Bootstrap) aligned to design standards.  
-  • Delivered RESTful APIs (Node.js + SQL + PostgreSQL) for dynamic business workflows.  
-  • Deployed and maintained applications on AWS (EC2, S3, Lambda, IAM).  
-  • Automated database tasks (Oracle + Shell scripts) for rollbacks, migrations, and backups.  
-  • Diagnosed production issues via logs + root cause analysis, collaborating with infra/QA to fix quickly.  
-  • Modernized cloud infrastructure by moving legacy systems to Terraform-based IaC, boosting scalability and deployment speed.
-  • Built and managed multi-cloud environments (AWS + Azure) with strong focus on reliability, security, and zero drift.
-  • Migrated company repositories from GitHub to GitLab, improving security and CI/CD integration.
-  • Streamlined CI/CD workflows using GitLab + Jenkins + automation scripts, cutting release cycles significantly.
-  • Tuned AWS DynamoDB with auto-scaling and indexing tweaks for high-availability workloads.
-  • Set up proactive monitoring and alerting (CloudWatch, Grafana, ELK) to reduce downtime and speed up incident response.
-  •
+ • Led development of end-to-end ML and LLM-driven solutions for automotive clients including Peugeot, Opel, and Citroën.
+ • Designed and fine-tuned transformer-based models (BERT, GPT, LLaMA) for NLP tasks including summarization, classification, and contextual understanding.
+ • Developed and deployed PyTorch-based deep learning architectures for multimodal data applications.
+ • Built GenAI-powered recommendation and retrieval systems enhancing personalization and intelligent decision-making.
+ • Implemented NLP pipelines with tokenization, embeddings, and vector search integrations for RAG-based workflows.
+ • Optimized model performance through prompt engineering, quantization, and inference acceleration.
+ • Integrated monitoring and retraining workflows using Prometheus, Grafana, and CloudWatch for model drift detection.
+ • Deployed scalable AI systems using MLOps and LLMOps best practices across AWS and Azure environments.
 
   - **Technical Head** — *Dhole Patil College of Engineering, Pune* (2021–2022)  
   • Managed college fests, events for whole college and attended international guests and helped PPO team for college placements.
@@ -90,15 +88,16 @@ I’m a motivated **Software Engineer** with uop 3 years of experience. I am hig
 - **Languages:** Python, Java, JavaScript, SQL, Bash/Shell  
 - **Backend:** Node.js, Express.js, Spring Boot, REST APIs, Microservices  
 - **Databases:** PostgreSQL, MySQL, MongoDB, Oracle, Redis  
-- **Cloud & DevOps:** AWS (EC2, S3, Lambda, IAM, CloudWatch), Azure, Docker, Kubernetes, Jenkins, Terraform, GitHub Actions  
-- **Testing/QA:** Selenium, PyTest, JUnit, REST Assured; regression/smoke/E2E; exploratory testing  
-- **Monitoring & Logs:** Prometheus, Grafana, ELK, structured logging & metrics
-- Devops: AWS (EC2, Lambda, S3, Cloud Watch, IAM), Azure, Docker, Kubernetes, Jenkins
-- QA Practices: Manual and Exploratory Testing, Regression, Smoke, End-to-End Testing, Test Strategy, Bug Reporting
-- Monitoring and Quality: CloudWatch, Prometheus, Grafana, Logging & Metrics Validation, Security
-- Databases and APIs: SQL (PostgreSQL, MySQL, Oracle), MongoDB, Redis, REST APIs, Microservices
-- Methodologies: Agile/Scrum, SDLC, Shift-Left Testing, Collaboration with Product/Dev Teams
-- Scripting and Automation: Python, Bash, Shell Scripting
+- **Core AI & Machine Learning:** Supervised/Unsupervised Learning, Deep Learning, NLP, Computer Vision, Generative AI, LLMs, RAG Systems, Recommendation Engines, Embedding Models  
+- **Frameworks & Libraries:** PyTorch, TensorFlow, Hugging Face Transformers, LangChain, Scikit-learn, Pandas, NumPy, Matplotlib, FastAPI, Streamlit  
+- **MLOps & LLMOps:** MLflow, Kubeflow, TorchServe, BentoML, Docker, Kubernetes, AWS SageMaker, Vertex AI, CI/CD Pipelines, Model Registry, Automated Retraining  
+- **Cloud & Infrastructure:** AWS (EC2, S3, Lambda, IAM, CloudWatch), GCP (Vertex AI, BigQuery), Azure, Terraform, Ansible, Docker Compose, CloudFormation  
+- **Data & Storage:** SQL (PostgreSQL, MySQL), MongoDB, Redis, Snowflake, BigQuery, Vector Databases (FAISS, Pinecone), ETL Pipelines, Feature Stores  
+- **Monitoring & Observability:** Prometheus, Grafana, ML Monitoring, Model Drift Detection, Logging, Experiment Tracking, Performance Optimization  
+- **Programming & Scripting:** Python, Bash/Shell, JavaScript (Node.js), REST APIs, LangChain Agents, OpenAI Functions, Automation Scripting  
+- **Version Control & CI/CD:** Git, GitHub, GitLab, Jenkins, GitHub Actions, GitLab CI/CD, Automated Testing Pipelines  
+- **Methodologies:** Agile/Scrum, Rapid Prototyping, End-to-End Ownership, Cross-Team Collaboration, SDLC  
+- **Other Tools & Practices:** Prompt Engineering, LLM Fine-Tuning, Knowledge Graphs, Semantic Search, Experimentation & A/B Testing  
 
 ---
 
