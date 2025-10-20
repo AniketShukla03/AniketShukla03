@@ -12,8 +12,12 @@
 
 ## 🚀 About Me
 
-I’m a motivated **Software Engineer** with uop 3 years of experience. I am highly motivated skilled in building scalable applications, optimizing infrastructure, and delivering high-quality solutions for clients and products.
-**Interests:** Software Engineering, Backend systems, DevOps, Test Automation, AI-powered Developer Productivity, and Cloud Infrastructure, QA, SRE, Solutions, Product Specialization.
+I’m a passionate AI/ML Engineer with around 3 years of experience in designing, developing, and deploying intelligent systems end-to-end. I specialize in building data-driven, scalable, and production-ready AI solutions that blend machine learning, software engineering, and cloud automation.
+
+My expertise lies across Machine Learning, Generative AI, MLOps, Cloud Infrastructure, and DevOps, with a strong focus on delivering reliable and high-performance systems. I’ve built and deployed models across domains integrating them into real-world applications with seamless CI/CD and observability.
+
+I’m driven by curiosity and the desire to bridge AI research and practical engineering, turning models into products that create measurable business value. Whether it’s fine-tuning LLMs, building RAG pipelines, automating deployments, or optimizing ML workloads — I thrive on taking complete ownership from concept to deployment. <br>
+**Interests:** Artificial Intelligence, Machine Learning, Generative AI, LLMs, MLOps, Cloud Infrastructure, Software Systems, and Intelligent Automation.
 
 ---
 
