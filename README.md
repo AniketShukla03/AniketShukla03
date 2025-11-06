@@ -23,7 +23,7 @@ I’m driven by curiosity and the desire to bridge AI research and practical eng
 
 ## 🏢 Experience
 
-- **Software Engineer (AI/ML & GenAI)** — *Upwork* (October 2024 – October 2025)  
+- **Software Engineer** — *Upwork* (October 2024 – October 2025)  
  • Delivered AI/ML and Generative AI solutions across multiple domains including e-commerce, healthcare, and finance. <br>
  • Developed and fine-tuned transformer-based models (BERT, GPT, LLaMA) for NLP tasks such as summarization, sentiment analysis, and intent classification. <br>
  • Built end-to-end Retrieval-Augmented Generation (RAG) and recommendation systems to enhance personalization and contextual intelligence. <br>
