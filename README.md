@@ -24,22 +24,22 @@ I’m driven by curiosity and the desire to bridge AI research and practical eng
 ## 🏢 Experience
 
 - **Software Engineer** — *Upwork* (October 2024 – October 2025)  
- • Delivered AI/ML and Generative AI solutions across multiple domains including e-commerce, healthcare, and finance. <br>
- • Developed and fine-tuned transformer-based models (BERT, GPT, LLaMA) for NLP tasks such as summarization, sentiment analysis, and intent classification. <br>
- • Built end-to-end Retrieval-Augmented Generation (RAG) and recommendation systems to enhance personalization and contextual intelligence. <br>
- • Deployed and optimized PyTorch-based deep learning models for scalable inference using TorchServe and TensorRT. <br>
+ • Assisted developers and customers with API usage, SDK integrations, and basic debugging of issues related to configuration, authentication, and data handling. <br>
+ • Created technical documentation, step-by-step guides, and FAQs to help users resolve common issues and improve overall self-service support. <br>
+ • Collaborated directly with clients and small development teams to escalate bugs, validate fixes, and ensure smooth deployment of updates. <br>
+ • Performed manual testing and validation of features and fixes to identify regressions and confirm expected behavior before release. <br>
  • Automated ML workflows using CI/CD, versioning, and retraining pipelines for continuous improvement.<br>
- • Provisioned cloud infrastructure using Terraform and Docker for reproducible, cloud-native model deployments. <br>
+ • Monitored application behavior and logs to identify recurring issues, proactively flagging potential problems and suggesting improvements <br>
  • Collaborated with teams to translate business requirements into production-grade AI solutions aligned with scalability and reliability goals. <br>
 
 - **Senior Software Engineer / Analyst** — *Capgemini* (Sep 2022 – Sep 2024)
- • Led development of end-to-end ML and LLM-driven solutions for automotive clients including Peugeot, Opel, and Citroën. <br>
- • Designed and fine-tuned transformer-based models (BERT, GPT, LLaMA) for NLP tasks including summarization, classification, and contextual understanding.<br>
- • Developed and deployed PyTorch-based deep learning architectures for multimodal data applications. <br>
+ • Worked with global automotive clients including Citroen, Peugeot, and Opel, supporting business-critical enterprise applications. <br>
+ • Collaborated with cross-functional international teams (onshore/offshore) to troubleshoot production issues and deliver timely fixes. <br>
+ • Performed application monitoring, bug fixing, enhancements, and change deployments while adhering to client SLAs. <br>
  • Built GenAI-powered recommendation and retrieval systems enhancing personalization and intelligent decision-making. <br>
- • Implemented NLP pipelines with tokenization, embeddings, and vector search integrations for RAG-based workflows. <br>
+ • Supported and data validation processes for large-scale migration projects, ensuring consistency across multiple regional databases. <br>
  • Optimized model performance through prompt engineering, quantization, and inference acceleration. <br>
- • Integrated monitoring and retraining workflows using Prometheus, Grafana, and CloudWatch for model drift detection. <br>
+ • Partnered with business teams to translate analytical findings into actionable recommendations for supply chain and warranty optimization. <br>
  • Deployed scalable AI systems using MLOps and LLMOps best practices across AWS and Azure environments.<br>
 
 - **Technical Head** — *Dhole Patil College of Engineering, Pune* (2021–2022)  
