@@ -14,7 +14,7 @@
 
 I’m a passionate Engineer with around 3 years of experience in designing, developing, and deploying intelligent systems end-to-end. I specialize in building data-driven, scalable, and production-ready AI solutions that blend machine learning, software engineering, and cloud automation.
 
-My expertise lies across Machine Learning, Generative AI, MLOps, Cloud Infrastructure, and DevOps, with a strong focus on delivering reliable and high-performance systems. I’ve built and deployed models across domains integrating them into real-world applications with seamless CI/CD and observability.
+My expertise lies across Software Engineering, Cloud Infrastructure, and DevOps, with a strong focus on delivering reliable and high-performance systems. I’ve built and deployed models across domains integrating them into real-world applications with seamless CI/CD and observability.
 
 I’m driven by curiosity and the desire to bridge AI research and practical engineering, turning models into products that create measurable business value. Whether it’s fine-tuning LLMs, building RAG pipelines, automating deployments, or optimizing ML workloads — I thrive on taking complete ownership from concept to deployment. <br>
 **Interests:** Artificial Intelligence, Machine Learning, Generative AI, LLMs, MLOps, Cloud Infrastructure, Software Systems, and Intelligent Automation.
